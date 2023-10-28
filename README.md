@@ -29,7 +29,7 @@ Additional description about the project and its features.
 In order to run locally this project type the following commands over the terminal in Linux or Mac or the Windows cmd console:
 
 ```s
-$ git clone https://github.com/guillainbisimwa/bomoko-app.git
+$ git clone https://github.com/myshine112/bomoko-app.git
 $ cd bomoko-app
 $ npm install
 $ expo start
@@ -51,25 +51,3 @@ Now that we have set up our build profile and app signing, running a build for i
 Once the update is built and uploaded to EAS and the command completes, force close and reopen your app up to two times to download and view the update.
 
 `eas update --branch preview --message "Updating the app"`
-
-## Author
-
-👤 **Guillain Bisimwa**
-
-- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
-- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
-- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/guillainbisimwa/bomoko-app/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
